@@ -1,0 +1,12 @@
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\bin\Debug\netcoreapp3.1\øvelser2.exe
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\bin\Debug\netcoreapp3.1\øvelser2.deps.json
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\bin\Debug\netcoreapp3.1\øvelser2.runtimeconfig.json
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\bin\Debug\netcoreapp3.1\øvelser2.runtimeconfig.dev.json
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\bin\Debug\netcoreapp3.1\øvelser2.dll
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\bin\Debug\netcoreapp3.1\øvelser2.pdb
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\obj\Debug\netcoreapp3.1\øvelser2.AssemblyInfoInputs.cache
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\obj\Debug\netcoreapp3.1\øvelser2.AssemblyInfo.cs
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\obj\Debug\netcoreapp3.1\øvelser2.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\obj\Debug\netcoreapp3.1\øvelser2.dll
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\obj\Debug\netcoreapp3.1\øvelser2.pdb
+C:\Users\Mr.Gawzy\source\repos\øvelser2\øvelser2\obj\Debug\netcoreapp3.1\øvelser2.genruntimeconfig.cache

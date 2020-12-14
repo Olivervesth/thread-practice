@@ -1,0 +1,13 @@
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\bin\Debug\netcoreapp3.1\øvelseer.exe
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\bin\Debug\netcoreapp3.1\øvelseer.deps.json
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\bin\Debug\netcoreapp3.1\øvelseer.runtimeconfig.json
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\bin\Debug\netcoreapp3.1\øvelseer.runtimeconfig.dev.json
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\bin\Debug\netcoreapp3.1\øvelseer.dll
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\bin\Debug\netcoreapp3.1\øvelseer.pdb
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\obj\Debug\netcoreapp3.1\øvelseer.csprojAssemblyReference.cache
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\obj\Debug\netcoreapp3.1\øvelseer.AssemblyInfoInputs.cache
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\obj\Debug\netcoreapp3.1\øvelseer.AssemblyInfo.cs
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\obj\Debug\netcoreapp3.1\øvelseer.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\obj\Debug\netcoreapp3.1\øvelseer.dll
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\obj\Debug\netcoreapp3.1\øvelseer.pdb
+C:\Users\Mr.Gawzy\source\repos\øvelseer\øvelseer\obj\Debug\netcoreapp3.1\øvelseer.genruntimeconfig.cache
